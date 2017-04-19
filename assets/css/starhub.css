@@ -1,0 +1,9 @@
+.checkbox.checkbox-platform,
+.checkbox.checkbox-roles{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.validate-error{
+    color: #a94442;
+}
