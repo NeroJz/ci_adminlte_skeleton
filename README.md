@@ -9,6 +9,8 @@ Follow the instructions below to begin your development:<br>
 <li>Create a database</li>
 <li>Import the ion_auth.sql from sql folder to the newly created database</li>
 <li>Fill in the database configurations in the config/database.php</li>
+<li>Type http://localhost/ci_admin_skeleton on your browser</li>
+<li>Login with username: neo, password: password</li>
 </ol>
 
 <p>
